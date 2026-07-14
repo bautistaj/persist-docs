@@ -48,6 +48,11 @@ const config: Config = {
   themeConfig: {
     navbar: {
       title: 'Persist Docs',
+        logo: {
+        alt: 'Persist Docs',
+        src: 'img/logo.svg',
+        href: '/persist-docs/',
+      },
       items: [
         {
           type: 'docSidebar',

@@ -7,9 +7,9 @@ const config: Config = {
   tagline: 'Documentación técnica de proyectos',
   favicon: 'img/favicon.ico',
 
-  url: 'https://persist-group.github.io',        // ← reemplazar
+  url: 'https://bautistaj.github.io',
   baseUrl: '/persist-docs/',
-  organizationName: 'persist-group',              // ← reemplazar
+  organizationName: 'bautistaj',
   projectName: 'persist-docs',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -54,7 +54,7 @@ const config: Config = {
           label: 'Documentación',
         },
         {
-          href: 'https://github.com/<tu-org>/persist-docs',
+          href: 'https://github.com/bautistaj/persist-docs',
           label: 'GitHub',
           position: 'right',
         },
